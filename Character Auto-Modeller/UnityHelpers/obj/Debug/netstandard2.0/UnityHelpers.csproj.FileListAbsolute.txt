@@ -1,0 +1,9 @@
+C:\Projects\Unity\Applications\Character Auto-Modeller\UnityHelpers\bin\Debug\netstandard2.0\UnityHelpers.deps.json
+C:\Projects\Unity\Applications\Character Auto-Modeller\UnityHelpers\bin\Debug\netstandard2.0\UnityHelpers.dll
+C:\Projects\Unity\Applications\Character Auto-Modeller\UnityHelpers\bin\Debug\netstandard2.0\UnityHelpers.pdb
+C:\Projects\Unity\Applications\Character Auto-Modeller\UnityHelpers\obj\Debug\netstandard2.0\UnityHelpers.csprojAssemblyReference.cache
+C:\Projects\Unity\Applications\Character Auto-Modeller\UnityHelpers\obj\Debug\netstandard2.0\UnityHelpers.csproj.CoreCompileInputs.cache
+C:\Projects\Unity\Applications\Character Auto-Modeller\UnityHelpers\obj\Debug\netstandard2.0\UnityHelpers.AssemblyInfoInputs.cache
+C:\Projects\Unity\Applications\Character Auto-Modeller\UnityHelpers\obj\Debug\netstandard2.0\UnityHelpers.AssemblyInfo.cs
+C:\Projects\Unity\Applications\Character Auto-Modeller\UnityHelpers\obj\Debug\netstandard2.0\UnityHelpers.dll
+C:\Projects\Unity\Applications\Character Auto-Modeller\UnityHelpers\obj\Debug\netstandard2.0\UnityHelpers.pdb
